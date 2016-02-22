@@ -1,4 +1,4 @@
-Git OSX Installer
+ create Git OSX Installer
 =================
 =================
 
